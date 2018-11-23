@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "819835060936",
+    "firebase_url": "https://mathsgameworking.firebaseio.com",
+    "project_id": "mathsgameworking",
+    "storage_bucket": "mathsgameworking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819835060936:android:ac525b3366a04a50",
+        "android_client_info": {
+          "package_name": "com.g.android.mathsgameworking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819835060936-vaoma9nolfqj1utt73oiv4f9k6ki621l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKkw0t9bfIwDFyaQlNw7_JWD4tl_Exz1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
